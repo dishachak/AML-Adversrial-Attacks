@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+env/
+.ENV/
+.ipynb_checkpoints/
+
+# Colab & Jupyter
+*.ipynb_checkpoints/
+*.checkpoint.ipynb
+
+# Data / artifacts
+data/**
+!data/README.md
+
+# OS / IDE
+.DS_Store
+*.swp
+.vscode/
+.idea/

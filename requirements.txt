@@ -1,0 +1,14 @@
+numpy
+scipy
+matplotlib
+IPython
+seaborn
+tqdm
+torch
+torchvision
+pytorch_lightning
+urllib
+tabulate
+tensorflow
+tensorflow_datasets
+pandas
