@@ -2,7 +2,7 @@
 
 This repository hosts the notebook **Project_AML_Adversarial_Attacks.ipynb**, showcasing experiments on adversarial attacks for applied machine learning.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/<your-username>/aml-adversarial-attacks/blob/main/notebooks/Project_AML_Adversarial_Attacks.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dishachak/aml-adversarial-attacks/blob/main/notebooks/Project_AML_Adversarial_Attacks.ipynb)
 <!-- After pushing to GitHub, replace <your-username> and ensure the path matches main/notebooks/... -->
 
 ## What’s inside
